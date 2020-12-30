@@ -2,4 +2,4 @@
 very nice editor is vscode
 # let me add some text again to it
 
-git made my de cool using vscode too , -am 
+git made my de cool using vscode too. some updates on a branch
